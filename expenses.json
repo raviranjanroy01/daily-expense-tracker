@@ -1,0 +1,98 @@
+[
+    {
+        "date": "01-10-2026",
+        "category": "Food",
+        "description": "Breakfast",
+        "amount": 120.0
+    },
+    {
+        "date": "03-10-2026",
+        "category": "Food",
+        "description": "Lunch",
+        "amount": 180.0
+    },
+    {
+        "date": "04-10-2026",
+        "category": "Stationery",
+        "description": "Notebook and pens",
+        "amount": 250.0
+    },
+    {
+        "date": "05-10-2026",
+        "category": "Entertainment",
+        "description": "Movie ticket",
+        "amount": 300.0
+    },
+    {
+        "date": "06-10-2026",
+        "category": "Food",
+        "description": "Dinner",
+        "amount": 220.0
+    },
+    {
+        "date": "08-10-2026",
+        "category": "Travel",
+        "description": "Auto fare",
+        "amount": 100.0
+    },
+    {
+        "date": "10-10-2026",
+        "category": "Shopping",
+        "description": "T-shirt",
+        "amount": 550.0
+    },
+    {
+        "date": "12-10-2026",
+        "category": "Food",
+        "description": "Snacks",
+        "amount": 90.0
+    },
+    {
+        "date": "15-10-2026",
+        "category": "Education",
+        "description": "Online course",
+        "amount": 499.0
+    },
+    {
+        "date": "18-10-2026",
+        "category": "Food",
+        "description": "Lunch",
+        "amount": 160.0
+    },
+    {
+        "date": "20-10-2026",
+        "category": "Travel",
+        "description": "Train ticket",
+        "amount": 350.0
+    },
+    {
+        "date": "22-10-2026",
+        "category": "Stationery",
+        "description": "Printer paper",
+        "amount": 180.0
+    },
+    {
+        "date": "25-10-2026",
+        "category": "Entertainment",
+        "description": "Gaming",
+        "amount": 200.0
+    },
+    {
+        "date": "28-10-2026",
+        "category": "Food",
+        "description": "Dinner",
+        "amount": 240.0
+    },
+    {
+        "date": "30-09-2026",
+        "category": "Food",
+        "description": "September dinner",
+        "amount": 200.0
+    },
+    {
+        "date": "25-09-2026",
+        "category": "Travel",
+        "description": "September bus fare",
+        "amount": 80.0
+    }
+]
